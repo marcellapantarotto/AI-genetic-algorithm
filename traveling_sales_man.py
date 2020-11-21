@@ -1,9 +1,3 @@
-# ```
-# Universidade de Brasília (UnB) - Intro. Artificial Inteligence
-# Marcella Pantarotto (13/0143880)
-# Carlos Eduardo da Silva Andrade (19/0025905)
-# ```
-
 import random
 from random import randint
 import itertools
